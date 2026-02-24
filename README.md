@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## rb-dev78/rb-dev78 is a Deaf student at ECPI Universtry pursing Batchelor in Science degree in IS/Cyber Ops.  Class of '27.  
 <!--
 **rb-dev78/rb-dev78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
