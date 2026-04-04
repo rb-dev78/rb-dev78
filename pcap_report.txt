@@ -1,0 +1,13 @@
+Total packets:5
+Report Time: 2026-04-03 21:41:21.662094
+Total packets by protocol:
+TCP: 3
+UDP: 2
+
+Total packets with size > 500: 0
+
+Total packets by protocol:
+TCP: 3
+UDP: 2
+
+Total packets with size > 500: 3
